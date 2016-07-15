@@ -1,0 +1,14 @@
+layout_spectrum: 0.6802058112807572
+typography_spectrum: 0.9043137656990439
+color:
+  brandStrength: 0.9348959077615291
+  lightness: 0.32895484915934503
+  saturation: 0.20721515966579318
+  rhythmicContrast: 0.16533853276632726
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Love at First Site
